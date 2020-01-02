@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-11, .cls-4, .cls-6, .cls-7, .cls-8 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-4, .cls-5 {
+        stroke: rgba(112,112,112,0);
+      }
+
+      .cls-5 {
+        fill: #8cabd9;
+      }
+
+      .cls-6 {
+        stroke: #5bc5db;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        stroke: #db5bb4;
+      }
+
+      .cls-8 {
+        stroke: #ef0fca;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="1052" height="464"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-2">
+    <rect class="cls-11" width="1920" height="1080"/>
+    <g id="pattrens-2" class="cls-3" transform="translate(486 176)">
+      <path id="Path_1" data-name="Path 1" class="cls-4" d="M0,0H1052V464H0Z"/>
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-5" transform="translate(645 253)">
+        <circle class="cls-9" cx="6.5" cy="6.5" r="6.5"/>
+        <circle class="cls-10" cx="6.5" cy="6.5" r="6"/>
+      </g>
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-5" transform="matrix(0.656, 0.755, -0.755, 0.656, 212.485, 265.575)">
+        <rect class="cls-9" width="15" height="13"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="14" height="12"/>
+      </g>
+      <path id="Path_2" data-name="Path 2" class="cls-6" d="M639.725,394.656v18.487" transform="translate(-417.238 -270)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-6" d="M611.081,403.143h20.827" transform="translate(-399 -269.491)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-7" d="M639.725,394.656v22.063" transform="translate(-83.68 -244)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-8" d="M611.081,403.143h19.943" transform="translate(-65 -241.751)"/>
+      <g id="Rectangle_2-2" data-name="Rectangle 2" class="cls-5" transform="matrix(0.515, 0.857, -0.857, 0.515, 366.209, 185.723)">
+        <rect class="cls-9" width="15" height="13"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="14" height="12"/>
+      </g>
+      <path id="Path_6" data-name="Path 6" class="cls-6" d="M639.725,394.656v18.487" transform="translate(-240.238 -362)"/>
+      <path id="Path_7" data-name="Path 7" class="cls-6" d="M611.081,403.143h20.827" transform="translate(-222 -361.491)"/>
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-5" transform="translate(587 64)">
+        <circle class="cls-9" cx="6.5" cy="6.5" r="6.5"/>
+        <circle class="cls-10" cx="6.5" cy="6.5" r="6"/>
+      </g>
+      <path id="Path_8" data-name="Path 8" class="cls-7" d="M639.725,394.656v22.063" transform="translate(-191.68 -112)"/>
+      <path id="Path_9" data-name="Path 9" class="cls-8" d="M611.081,403.143h19.943" transform="translate(-173 -109.751)"/>
+    </g>
+  </g>
+</svg>
